@@ -51,3 +51,8 @@ and prepare the data for future machine learning models.
 ---
 
 ## 📁 Project Structure
+Big Mart Sales Prediction/
+│
+├── data.csv
+├── project.ipynb
+└── README.md
